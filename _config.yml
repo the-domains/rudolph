@@ -1,0 +1,12 @@
+layout_spectrum: 0.1075269
+typography_spectrum: 0.1433692
+color:
+  saturation: 0.6164874
+  lightness: 0.4093989
+  brandStrength: 0.6854022
+  brandColors:
+    - '#E9E9E9'
+    - '#1F1F1F'
+    - '#B4B4B4'
+  rhythmicContrast: 0.314174
+name: rudolph
