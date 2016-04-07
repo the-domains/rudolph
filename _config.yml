@@ -2,6 +2,7 @@ name: rudolph
 favicon: null
 layout_spectrum: 0.1075269
 typography_spectrum: 0.1433692
+title: Rudolph
 cta:
   domain: null
   bucket: null
