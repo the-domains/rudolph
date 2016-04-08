@@ -1,27 +1,41 @@
-name: rudolph
-favicon: null
-layout_spectrum: 0.1075269
-typography_spectrum: 0.1433692
 title: Rudolph
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6164874
+  brandStrength: 0.6854022
+  lightness: 0.4093989
+  brandColors:
+    - '#38314B'
+    - '#BD3A41'
+    - '#F1FFFF'
+    - '#4363B4'
+    - '#88B2E1'
+  rhythmicContrast: 0.314174
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: rudolph
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E9E9E9'
-    - '#1F1F1F'
-    - '#B4B4B4'
-  brandStrength: 0.6854022
-  lightness: 0.4093989
-  saturation: 0.6164874
-  rhythmicContrast: 0.314174
-purpose: []
+typography_spectrum: 0.1433692
+layout_spectrum: 0.1075269
