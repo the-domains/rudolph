@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:d89bd62e-9766-4ab7-9a2b-333524981595'
+inLanguage: null
+starred: false
+keywords: []
 description: even afstand nemen. en jezelf heruitvinden.
+datePublished: '2016-04-08T11:40:27.913Z'
+dateModified: '2016-04-08T11:40:17.462Z'
 author: []
-datePublished: '2016-04-08T07:17:39.372Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'even afstand nemen. en jezelf heruitvinden. '
-dateModified: '2016-04-08T07:16:58.684Z'
 sourcePath: _posts/2016-04-08-even-afstand-nemen-en-jezelf-heruitvinden.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: even-afstand-nemen-en-jezelf-heruitvinden/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
